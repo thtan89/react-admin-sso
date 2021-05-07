@@ -7088,6 +7088,28 @@ ra-core@^2.9.5:
     redux-saga "~0.16.0"
     reselect "~3.0.0"
 
+ra-core@^2.9.9:
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-2.9.9.tgz#2241e007dea3defcb623e8d475a06b353705b11c"
+  dependencies:
+    classnames "~2.2.5"
+    date-fns "^1.29.0"
+    inflection "~1.12.0"
+    lodash "~4.17.5"
+    node-polyglot "^2.2.2"
+    prop-types "~15.6.1"
+    query-string "~5.1.1"
+    ra-language-english "^2.9.9"
+    react-redux "~5.0.7"
+    react-router "^4.2.0"
+    react-router-dom "^4.2.0"
+    react-router-redux "~5.0.0-alpha.9"
+    recompose "~0.26.0"
+    redux "~3.7.2"
+    redux-form "~7.4.0"
+    redux-saga "~0.16.0"
+    reselect "~3.0.0"
+
 ra-data-json-server@^2.9.5:
   version "2.9.5"
   resolved "https://registry.yarnpkg.com/ra-data-json-server/-/ra-data-json-server-2.9.5.tgz#58c4202cea8e9c5b8bf6c7adefc3f5b20c01a04f"
@@ -7095,9 +7117,20 @@ ra-data-json-server@^2.9.5:
     query-string "~5.1.1"
     ra-core "^2.9.5"
 
+ra-data-simple-rest@^2.9.5:
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-2.9.9.tgz#86366289a1bae11902001ff9c7e83c05517e8055"
+  dependencies:
+    query-string "~5.1.1"
+    ra-core "^2.9.9"
+
 ra-language-english@^2.9.3:
   version "2.9.3"
   resolved "https://registry.yarnpkg.com/ra-language-english/-/ra-language-english-2.9.3.tgz#346528ad8bc54c16ba23c011b7866d98541c6d7b"
+
+ra-language-english@^2.9.9:
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/ra-language-english/-/ra-language-english-2.9.9.tgz#e8d90d40df8e5e66de8a7b3a72f33dd9de638501"
 
 ra-ui-materialui@^2.9.5:
   version "2.9.5"
@@ -8611,8 +8644,8 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
 
 uglify-js@3.4.x, uglify-js@^3.1.4:
   version "3.4.10"
